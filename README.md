@@ -5,3 +5,6 @@ tracking, committing changes, and pushing them to remote repositories. Essential
 add` and `git commit` are explained, along with their roles in staging and snapshotting changes.
 Additionally, it covers branch management, including creating and merging branches, and concludes with
 instructions for pushing changes to GitHub.
+The aim is to provide a concise guide for utilizing Git version control system, covering fundamental
+commands and workflows including tracking changes, committing snapshots, creating branches, and
+merging changes.****
